@@ -7,7 +7,7 @@
 A complete end-to-end data pipeline that collects real-world data from websites using web scraping techniques, cleans and processes it, and performs insightful analysis with visualizations.
 
 ---
-
+ 
 ## 📌 Table of Contents
 
 - [About the Project](#about-the-project)
